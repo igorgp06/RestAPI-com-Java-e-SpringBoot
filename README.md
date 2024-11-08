@@ -71,13 +71,13 @@
 * **Abrindo o Projeto:**
 	- Abrir o projeto você deve abrir ele com o [Spring Tools Suite](https://spring.io/tools). Após isso, abra o arquivo `userdpt`. Caso tudo tenha dado certo você deverá ter o resultado igual (ou parecido) a este:
 <div>  
-<img src="static/images/main_scane.png" width="75%" alt="main_frame">  
+<img src="src/main/resources/static/images/main_scane.png" width="75%" alt="main_frame">  
 </div>
 
 - **Rodando o projeto:**
 	- Para rodar o projeto você deve clicar com o botão esquerdo na opção `Local` que fica localizado no canto esquerda inferior. Após isto, aperte com o botão direito sobre `userdpt` e em `(Re)start`. Tome a imagem abaixo como exemplo:
 <div>
-<img src="static/images/(re)start_project.png" width="65%" alt="start_project">
+<img src="src/main/resources/static/images/(re)start_project.png" width="65%" alt="start_project">
 </div>
 
 - **Localizando o host:**
@@ -87,17 +87,17 @@
 		- User Name = "sa"
 	- Após estas alterações, se sua tela de login estiver com a de acordo como a de baix, aperte em `Connect`:
 <div>
-<img src="/static/images/db_loign.png" width="65%" alt="database_login">
+<img src="/src/main/resources/static/images/db_loign.png" width="65%" alt="database_login">
 </div>
 
  - **Navegação dentro do banco de dados:**
 	- O projeto funciona com um banco de dados chamado de dados [H2](https://www.h2database.com/html/main.html) sendo que esse banco de dados tem o formato `SQL`, portando os comandos para a navegação do banco de dados também são na linguagem `SQL`. Para navegar entre as tabelas apenas escolha o que deseja visualizar e aperte `Run` para visualizar o visualizar a tabela. Veja abaixo a tela principal após o login ser efetuado corretamente:
 <div>
-<img src="static/images/main_db_scane.png" width="65%" alt="database_main_scane">
+<img src="src/main/resources/static/images/main_db_scane.png" width="65%" alt="database_main_scane">
 </div>
 
 - **Tutorial completo:**
-	- O tutorai completo vai estar disponível na pasta `static/videos` e no [YouTube](https://www.youtube.com/) em até no máximo uma semana após o deploy do projeto.
+	- O tutorial completo vai estar disponível na pasta `src/main/resources/static/videos` e no [YouTube](https://www.youtube.com/) em até no máximo uma semana após o deploy do projeto.
 
 
 ## Estrutura do Projeto
@@ -168,19 +168,15 @@ Igor Gonçalves Pinheiro ou [igorgp06](https://github.com/igorgp06)
 ## Repository Status
 
 <div align="left">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igorgp06/Login-System" height="20" alt="Top Language">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igorgp06/RestAPI-com-Java-e-SpringBoot?style=for-the-badge&color=rgb(255%2C%20151%2C%2027)" height="23">
 
-   <img src="https://img.shields.io/github/commits-since/igorgp06/Login-System/v1.0.0.svg" height="20" alt="commits-since">
-  
-   <a href="https://img.shields.io/github/downloads-since/{igorgp06}/Login-Systemt}/{em1.0.0}.svg" target="_blank">
-   <img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/igorgp06/Login-System/latest/total" height="20" alt="downloads-since"/></a>
+   <img src="https://img.shields.io/github/last-commit/igorgp06/RestAPI-com-Java-e-SpringBoot?display_timestamp=author&style=for-the-badge" height="23" alt="last-commit">
 
-   <a href="https://img.shields.io/github/forks/{igorgp06}/Login-System.svg" target="_blank">
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/igorgp06/Login-System" height="20" alt="forks"/></a>
+   <img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/igorgp06/RestAPI-com-Java-e-SpringBoot/total?style=for-the-badge&color=rgb(255%2C%20151%2C%2027)" height="23"/>
 
-   <a href="https://img.shields.io/github/watchers/igorgp06/Login-System.svg" target="_blank">
-   <img src="https://img.shields.io/github/watchers/igorgp06/Login-System.svg" height="20" alt="watchers"/></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/igorgp06/RestAPI-com-Java-e-SpringBoot?style=for-the-badge" height="23"/>
 
-   <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-   <img src="https://img.shields.io/:license-Apache%202-blue.svg" height="20" alt=" apache license"/></a>
+   <img src="https://img.shields.io/github/watchers/igorgp06/RestAPI-com-Java-e-SpringBoot?style=for-the-badge&color=rgb(255%2C%20151%2C%2027)" height="23" alt="watchers"/>
+
+   <img src="https://img.shields.io/github/license/igorgp06/RestAPI-com-Java-e-SpringBoot?style=for-the-badge" height="23" alt=" apache license"/>
 </div>
