@@ -139,10 +139,10 @@ INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Teste 2', 'teste2@gm
 ~~~
 
 ## Contribuindo
-Contribuições são sempre bem-vindas! Sinta-se a vontade para relatar bugs, sugestões e melhorias no [issues]().  
-Correção de bugs e novas funcionalidades também são sempre muito bem vindas, crie um `pull request` [aqui]() e ajude-me com suas melhorias e correções.
+Contribuições são sempre bem-vindas! Sinta-se a vontade para relatar bugs, sugestões e melhorias no [issues](https://github.com/igorgp06/RestAPI-com-Java-e-SpringBoot/issues).  
+Correção de bugs e novas funcionalidades também são sempre muito bem vindas, crie um `pull request` [aqui](https://github.com/igorgp06/RestAPI-com-Java-e-SpringBoot/pulls) e ajude-me com suas melhorias e correções.
 ## Licença e Código de Conduta
-O projeto [REST API com Java e SpringBoot]() está sujeito a licença [APACHE LICENSE 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
+O projeto [RestAPI com Java e SpringBoot](https://github.com/igorgp06/RestAPI-com-Java-e-SpringBoot) está sujeito a licença [APACHE LICENSE 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
 
 Por favor, siga o `NOTICE`, `CODE OF CONDUCT` e leia a `LICENSE` desse projeto para evitar incomodações futuras.  
 
